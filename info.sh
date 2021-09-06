@@ -16,11 +16,11 @@ command
 about () {
 echo -e "\e[1;32m
 {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
-{}Name                              Thet Htet Ko{}
-{}Age                                    22 Year{}
-{}Fb               https://fb.me/100060803555433{}
+{}Name                          Yell Phone Naing{}
+{}Age                                    17 Year{}
+{}Fb               https://fb.me/yellphoen.naing{}
 {}Skills             HTML,CSS,ZSH,PHP,MYSQL,BASH{}
-{}Mail                       totalsate@gmail.com{}
+{}Mail                  yellphonenaing@gmail.com{}
 {}     You Can Contact Me On FB For Any Help    {}
 {}{}{}{}{}{}{}||Date::7/7/2020||{}{}{}{}{}{}{}{}{}
 {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
@@ -75,7 +75,7 @@ echo -e "\e[1;31m
 {}       ==[ Note:To Harm Something             {}
 {}       ==[ Note:Hack Everything,Harm Nothing  {}
 {}       ==[ Tool Name : FB ACC Info Collector  {}
-{}       ==[ Coded by : HackCat                 {}
+{}       ==[ Coded by : Yell Phone Naing        {}
 {}       ==[ Version : 1.0.0                    {}
 {}       ==[ Script Types :Shell,PHP            {}
 {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
