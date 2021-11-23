@@ -17,17 +17,17 @@ about () {
 echo -e "\e[1;32m
 {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
 {}Name                          Yell Phone Naing{}
-{}Age                                    17 Year{}
-{}Fb               https://fb.me/yellphoen.naing{}
+{}Age                                    26 Year{}
+{}Fb               https://fb.me/dana.waller.naing{}
 {}Skills             HTML,CSS,ZSH,PHP,MYSQL,BASH{}
 {}Mail                  yellphonenaing@gmail.com{}
 {}     You Can Contact Me On FB For Any Help    {}
-{}{}{}{}{}{}{}||Date::7/7/2020||{}{}{}{}{}{}{}{}{}
+{}{}{}{}{}{}{}||Date::10/1/2021||{}{}{}{}{}{}{}{}{}
 {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
 \e[0m"
 command
 }
-getMAIL () {
+getMAIL (.) {
 php getMAIL.php
 command
 }
@@ -39,11 +39,11 @@ getBD () {
 php getBD.php
 command
 }
-getPHONE () {
+getPHONE (.) {
 php getPHONE.php
 command
 }
-getALL () {
+getALL (.) {
 php getALL.php
 command
 }
