@@ -20,9 +20,9 @@ echo -e "\e[1;32m
 {}Age                                    23 Year{}
 {}Fb               https://fb.me/100060803555433{}
 {}Skills             HTML,CSS,ZSH,PHP,MYSQL,BASH{}
-{}Mail                         hackcat@gmail.com{}
+{}Mail                       totalsate@gmail.com{}
 {}     You Can Contact Me On FB For Any Help    {}
-{}{}{}{}{}{}{}||Date::27/8/2022||{}{}{}{}{}{}{}{}{}
+{}{}{}{}{}{}{}||Date:27/8/2022||{}{}{}{}{}{}{}{}{}
 {}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}
 \e[0m"
 command
